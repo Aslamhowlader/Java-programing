@@ -6,9 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor_problem/Constructor_problem.iml" filepath="$PROJECT_DIR$/Constructor/Constructor_problem/Constructor_problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Runtime_polymorphim/Runtime_polymorphim.iml" filepath="$PROJECT_DIR$/Runtime_polymorphim/Runtime_polymorphim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/inheritance_problem/inheritance_problem.iml" filepath="$PROJECT_DIR$/Inheritance/inheritance_problem/inheritance_problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/java OOP.iml" filepath="$PROJECT_DIR$/java OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_oop/java_oop.iml" filepath="$PROJECT_DIR$/java_oop/java_oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab_4/lab_4.iml" filepath="$PROJECT_DIR$/lab_4/lab_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method_overloading/method_overloading.iml" filepath="$PROJECT_DIR$/method_overloading/method_overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
     </modules>
   </component>
